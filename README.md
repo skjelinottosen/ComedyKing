@@ -1,7 +1,7 @@
 # Comedy King
 ![](comedyKingLogo.png)
 
-A project to learn more about the Universal Windows Platform (UWP)
+Comedy King is a project to learn more about the Universal Windows Platform (UWP)
 
 
 Comedy King allows the users to read celebrity jokes from a database of jokes. 
