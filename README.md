@@ -1,4 +1,4 @@
-# ComedyKing
+# Comedy King
 ![](comedyKingLogo.png)
 
 A project to learn more about the Universal Windows Platform (UWP)
